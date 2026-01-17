@@ -1,7 +1,7 @@
 # Public Service Demand Forecasting System (AUPS-Based)
 
 ## Overview
-This project is a data-driven decision support system designed to forecast public service demand at the district level in Arunachal Pradesh. It helps governments and administrators prevent overcrowding, reduce wait times, and optimize resource allocation using simple yet powerful analytics (non-ML).
+This project is a data-driven decision support system designed to forecast public service demand at National Level. It helps governments and administrators prevent overcrowding, reduce wait times, and optimize resource allocation using simple yet powerful analytics (non-ML).
 
 ## Key Features
 - **AUPS (Area Utilization Pressure Score):** Quantifies service pressure at district level  
@@ -41,7 +41,6 @@ This project is a data-driven decision support system designed to forecast publi
 - Python  
 - Pandas / NumPy  
 - Data visualization tools  
-- PDF report generation  
 
 ## Project Status
 ✅ Complete and submission-ready  
