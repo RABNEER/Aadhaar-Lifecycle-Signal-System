@@ -25,6 +25,28 @@ This project is a data-driven decision support system designed to forecast publi
 4. Backtesting to validate prediction accuracy  
 5. Alert generation for high-risk districts  
 
+## How to Run the Project
+
+### 1. Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git  
+cd your-repo-name  
+
+### 2. (Optional) Create Virtual Environment
+python -m venv venv  
+source venv/bin/activate   # Windows: venv\Scripts\activate  
+
+### 3. Install Dependencies
+pip install -r requirements.txt  
+
+### 4. Add Dataset
+Place all required CSV files inside the `data/` directory.
+
+### 5. Run the Dashboard
+streamlit run app.py  
+
+### 6. Generate Final PDF Report
+python generate_report.py 
+
 ## Outputs
 - District-level demand forecasts  
 - Red Flag alerts  
