@@ -28,7 +28,7 @@ This project is a data-driven decision support system designed to forecast publi
 ## How to Run the Project
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git  
+git clone https://github.com//RABNEER/Aadhaar-Lifecycle-Signal-System.git  
 cd your-repo-name  
 
 ### 2. (Optional) Create Virtual Environment
