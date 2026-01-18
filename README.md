@@ -36,7 +36,9 @@ python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate  
 
 ### 3. Install Dependencies
-pip install -r requirements.txt  
+'''
+pip install -r requirements.txt
+'''
 
 ### 4. Add Dataset
 Place all required CSV files inside the `data/` directory.
